@@ -4,5 +4,5 @@
   "title": "Diplomacy (FLSW fork)",
   "author": "Y.Petremann",
   "description": "Interface to manage forces and diplomacy.",
-  "dependencies": ["base >= 0.12.30", "?flsw_auth"]
+  "dependencies": ["base >= 0.12.30", "flsw_auth >= 0.1.1"]
 }
